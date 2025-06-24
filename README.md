@@ -17,7 +17,8 @@
 ## 🔧 Installation
 
 1. Install with **Tampermonkey** (if not already installed get [Tampermonkey](https://www.tampermonkey.net/)).
-2. Alternatively, go to the [GitHub repo](https://github.com/codeMonkeyHopeful/EZLinkZ) and install manually.
+2. [Click here to install the script](https://github.com/codeMonkeyHopeful/EZLinkZ/raw/refs/heads/main/EZLinkZ.user.js) _(direct install link)_.
+3. Alternatively, go to the [GitHub repo](https://github.com/codeMonkeyHopeful/EZLinkZ) and install manually.
 
 ---
 

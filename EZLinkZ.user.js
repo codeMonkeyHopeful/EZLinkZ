@@ -9,7 +9,8 @@
 // @grant        GM_registerMenuCommand
 // @grant        GM_setValue
 // @grant        GM_getValue
-// @downloadURL  https://github.com/codeMonkeyHopeful/EZLinkZ
+// @downloadURL  https://github.com/codeMonkeyHopeful/EZLinkZ/raw/refs/heads/main/EZLinkZ.user.js
+// @updateURL    https://github.com/codeMonkeyHopeful/EZLinkZ/raw/refs/heads/main/EZLinkZ.user.js
 // @supportURL   https://github.com/codeMonkeyHopeful/EZLinkZ
 // ==/UserScript==
 

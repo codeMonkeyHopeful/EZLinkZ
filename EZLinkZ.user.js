@@ -12,6 +12,7 @@
 // @downloadURL  https://github.com/codeMonkeyHopeful/EZLinkZ/raw/refs/heads/main/EZLinkZ.user.js
 // @updateURL    https://github.com/codeMonkeyHopeful/EZLinkZ/raw/refs/heads/main/EZLinkZ.user.js
 // @supportURL   https://github.com/codeMonkeyHopeful/EZLinkZ
+// @license      MIT
 // ==/UserScript==
 
 (function () {
